@@ -1,5 +1,19 @@
 # RentACar
 
+Car Rental Project
+* Customers:
+   * It can specify a date range and list available vehicles. Past dates are not listed.
+   * A car can be booked in the selected date range, but a second car cannot be rented in the same date range.
+   * A reserved vehicle cannot be reserved on those dates.
+   * Can list reservations.
+   * Can delete reservations.
+* Managers:
+   * Car table CRUD operations
+   * Customer (User) table CRUD operations
+   * Reservation table CRUD operations
+
+* There will be filtering, pagination and sorting possibilities on the listing screens.
+
 
 Araç Kiralama Projesi
 * Müşteriler:
