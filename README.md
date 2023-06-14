@@ -14,7 +14,7 @@ Car Rental Project
 
 * There will be filtering, pagination and sorting possibilities on the listing screens.
 
-
+## Turkish explanation
 Araç Kiralama Projesi
 * Müşteriler:
   * Tarih aralığı belirtip müsait araç listeleyebilir. Geçmiş tarihler listelenmez.
